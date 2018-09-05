@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FactorPrinter/FactorPrinter.iml" filepath="$PROJECT_DIR$/FactorPrinter/FactorPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlourPacker/FlourPacker.iml" filepath="$PROJECT_DIR$/FlourPacker/FlourPacker.iml" />
       <module fileurl="file://$PROJECT_DIR$/GreatestCommonDivisor/GreatestCommonDivisor.iml" filepath="$PROJECT_DIR$/GreatestCommonDivisor/GreatestCommonDivisor.iml" />
       <module fileurl="file://$PROJECT_DIR$/HasSameLastNumber/HasSameLastNumber.iml" filepath="$PROJECT_DIR$/HasSameLastNumber/HasSameLastNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
