@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FactorPrinter/FactorPrinter.iml" filepath="$PROJECT_DIR$/FactorPrinter/FactorPrinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatestCommonDivisor/GreatestCommonDivisor.iml" filepath="$PROJECT_DIR$/GreatestCommonDivisor/GreatestCommonDivisor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HasSameLastNumber/HasSameLastNumber.iml" filepath="$PROJECT_DIR$/HasSameLastNumber/HasSameLastNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Playing around.iml" filepath="$PROJECT_DIR$/Playing around.iml" />
+    </modules>
+  </component>
+</project>
