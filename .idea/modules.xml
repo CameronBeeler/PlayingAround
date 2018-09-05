@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiagonalStar/DiagonalStar.iml" filepath="$PROJECT_DIR$/DiagonalStar/DiagonalStar.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactorPrinter/FactorPrinter.iml" filepath="$PROJECT_DIR$/FactorPrinter/FactorPrinter.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlourPacker/FlourPacker.iml" filepath="$PROJECT_DIR$/FlourPacker/FlourPacker.iml" />
       <module fileurl="file://$PROJECT_DIR$/GreatestCommonDivisor/GreatestCommonDivisor.iml" filepath="$PROJECT_DIR$/GreatestCommonDivisor/GreatestCommonDivisor.iml" />
@@ -9,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/LargestPrime/LargestPrime.iml" filepath="$PROJECT_DIR$/LargestPrime/LargestPrime.iml" />
       <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Playing around.iml" filepath="$PROJECT_DIR$/Playing around.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScanInput/ScanInput.iml" filepath="$PROJECT_DIR$/ScanInput/ScanInput.iml" />
     </modules>
   </component>
 </project>
